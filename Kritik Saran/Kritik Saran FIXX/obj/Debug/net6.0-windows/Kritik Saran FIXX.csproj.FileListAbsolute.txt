@@ -1,0 +1,50 @@
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Kritik Saran FIXX.exe
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Kritik Saran FIXX.deps.json
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Kritik Saran FIXX.runtimeconfig.json
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Kritik Saran FIXX.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Kritik Saran FIXX.pdb
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Npgsql.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.csproj.AssemblyReference.cache
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik_Saran_FIXX.Form1.resources
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.csproj.GenerateResource.cache
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.GeneratedMSBuildEditorConfig.editorconfig
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.AssemblyInfoInputs.cache
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.AssemblyInfo.cs
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.csproj.CoreCompileInputs.cache
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.csproj.CopyComplete
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\refint\Kritik Saran FIXX.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.pdb
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.genruntimeconfig.cache
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\ref\Kritik Saran FIXX.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik_Saran_FIXX.Properties.Resources.resources
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\System.Management.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.csproj.AssemblyReference.cache
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik_Saran_FIXX.Form1.resources
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik_Saran_FIXX.Properties.Resources.resources
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.csproj.GenerateResource.cache
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.GeneratedMSBuildEditorConfig.editorconfig
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.AssemblyInfoInputs.cache
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.AssemblyInfo.cs
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.csproj.CoreCompileInputs.cache
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\refint\Kritik Saran FIXX.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.pdb
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Kritik Saran FIXX.exe
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Kritik Saran FIXX.deps.json
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Kritik Saran FIXX.runtimeconfig.json
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Kritik Saran FIXX.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Kritik Saran FIXX.pdb
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\Npgsql.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\System.Management.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.csproj.CopyComplete
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\Kritik Saran FIXX.genruntimeconfig.cache
+D:\R\A\COLLE\MATERI DAN TUGAS\PBO\ini fix\Kritik Saran FIXX\Kritik Saran FIXX\obj\Debug\net6.0-windows\ref\Kritik Saran FIXX.dll
